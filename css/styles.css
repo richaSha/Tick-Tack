@@ -18,3 +18,9 @@ button {
 .active {
   background: green;
 }
+.player1 {
+  background: #CCC;
+}
+.player2 {
+  background: #000;
+}
